@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Enviornment Variables
+.env
+
+
+# Finder Navigation
+.DS_Store
