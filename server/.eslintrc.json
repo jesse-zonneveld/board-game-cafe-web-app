@@ -1,0 +1,51 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": ["prettier", "airbnb-base"],
+    "plugins": ["prettier"],
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+
+    "parser": "babel-eslint",
+    "rules": {
+        "strict": 0,
+        "prettier/prettier": [
+            "error",
+            {
+                "singleQuote": true,
+                "tabWidth": 4,
+                "trailingComma": "es5",
+                "semi": true
+            }
+        ],
+        "quotes": [2, "single", { "avoidEscape": true }],
+        "indent": ["error", 4, { "SwitchCase": 1 }],
+        "operator-linebreak": ["error", "after"],
+        "comma-dangle": [
+            "error",
+            {
+                "arrays": "only-multiline",
+                "objects": "only-multiline",
+                "imports": "only-multiline",
+                "exports": "only-multiline",
+                "functions": "only-multiline"
+            }
+        ],
+        "no-param-reassign": [
+            "error",
+            { "props": true, "ignorePropertyModificationsFor": ["user", "req"] }
+        ],
+        "no-underscore-dangle": ["error", { "allow": ["_id"] }],
+        // "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
+        "no-unused-vars": ["warn"],
+        "arrow-body-style": ["warn", "as-needed"],
+        // "no-unneeded-ternary": ["error", { "defaultAssignment": false }],
+        "no-unneeded-ternary": ["warn"],
+        "implicit-arrow-linebreak": ["warn", "beside"],
+        "object-curly-newline": ["warn", "always"]
+    }
+}

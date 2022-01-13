@@ -1,0 +1,145 @@
+info: Aug-25-2021 16:45:24: 	Mongoose connected to DB
+info: Aug-25-2021 16:45:24: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:46:07: 	Mongoose disconnected from DB
+info: Aug-25-2021 16:46:45: 	Mongoose connected to DB
+info: Aug-25-2021 16:46:45: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:47:57: 	Mongoose connected to DB
+info: Aug-25-2021 16:47:57: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:48:20: 	Mongoose connected to DB
+info: Aug-25-2021 16:48:20: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:49:37: 	Mongoose connected to DB
+info: Aug-25-2021 16:49:37: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:51:35: 	Mongoose connected to DB
+info: Aug-25-2021 16:51:35: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:52:15: 	Mongoose connected to DB
+info: Aug-25-2021 16:52:15: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:53:26: 	Mongoose connected to DB
+info: Aug-25-2021 16:53:26: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:54:09: 	Mongoose connected to DB
+info: Aug-25-2021 16:54:09: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:54:49: 	Mongoose connected to DB
+info: Aug-25-2021 16:54:49: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:55:21: 	Mongoose connected to DB
+info: Aug-25-2021 16:55:21: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:55:32: 	Mongoose connected to DB
+info: Aug-25-2021 16:55:32: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:56:05: 	Mongoose connected to DB
+info: Aug-25-2021 16:56:05: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:56:39: 	Mongoose connected to DB
+info: Aug-25-2021 16:56:39: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:57:49: 	Mongoose connected to DB
+info: Aug-25-2021 16:57:49: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:59:05: 	Mongoose connected to DB
+info: Aug-25-2021 16:59:05: 	Server is listening on PORT 4000
+info: Aug-25-2021 16:59:33: 	Mongoose connected to DB
+info: Aug-25-2021 16:59:33: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:00:06: 	Mongoose connected to DB
+info: Aug-25-2021 17:00:06: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:00:38: 	Mongoose connected to DB
+info: Aug-25-2021 17:00:38: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:01:12: 	Mongoose connected to DB
+info: Aug-25-2021 17:01:12: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:01:42: 	Mongoose connected to DB
+info: Aug-25-2021 17:01:42: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:03:31: 	Mongoose connected to DB
+info: Aug-25-2021 17:03:31: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:04:05: 	Mongoose connected to DB
+info: Aug-25-2021 17:04:05: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:04:33: 	Mongoose connected to DB
+info: Aug-25-2021 17:04:33: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:05:49: 	Mongoose connected to DB
+info: Aug-25-2021 17:05:49: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:05:56: 	Mongoose connected to DB
+info: Aug-25-2021 17:05:56: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:06:06: 	Mongoose connected to DB
+info: Aug-25-2021 17:06:06: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:06:18: 	Mongoose disconnected from DB
+info: Aug-25-2021 17:19:10: 	Mongoose connected to DB
+info: Aug-25-2021 17:19:10: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:19:20: 	Mongoose connected to DB
+info: Aug-25-2021 17:19:20: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:19:22: 	Mongoose disconnected from DB
+info: Aug-25-2021 17:19:28: 	Mongoose connected to DB
+info: Aug-25-2021 17:19:28: 	Server is listening on PORT 4000
+info: Aug-25-2021 17:19:41: 	User is authenticated - jelery@mail.com
+info: Aug-25-2021 17:19:41: 	Credentials are valid
+debug: Aug-25-2021 17:19:41: 	Start of loginUser controller
+info: Aug-25-2021 17:19:41: 	Creating signed JWT token - 611d457c2bd34be5e22eab9d, jelery@mail.com
+info: Aug-25-2021 17:19:41: 	Refresh token created - 9ef11351-8e5a-4ee1-8405-8439d4c7a39d
+::1 - - [26/Aug/2021:00:19:41 +0000] "POST /api/v1/auth/login/login-user HTTP/1.1" 200 79 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:19:41: 	Access token attached as cookie - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzcxODEsImV4cCI6MTYyOTkzNzE5MX0.FnuuvyxiY6jGToPs5jeovBJLBCkZTmSldm2Xc33BVGA
+info: Aug-25-2021 17:19:41: 	Refresh token attached as cookie - 9ef11351-8e5a-4ee1-8405-8439d4c7a39d
+debug: Aug-25-2021 17:19:52: 	Start of refreshAccessAndRefreshTokens controller
+info: Aug-25-2021 17:19:52: 	Extracting cookies from req: [object Object]
+info: Aug-25-2021 17:19:52: 	Refresh token ID 9ef11351-8e5a-4ee1-8405-8439d4c7a39d found in cookies
+info: Aug-25-2021 17:19:53: 	Refresh token found in db
+::1 - - [26/Aug/2021:00:19:53 +0000] "POST /api/v1/auth/refresh-token HTTP/1.1" 200 79 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:19:53: 	Refresh token 9ef11351-8e5a-4ee1-8405-8439d4c7a39d expiry date verified
+info: Aug-25-2021 17:19:53: 	Creating signed JWT token - 611d457c2bd34be5e22eab9d, jelery@mail.com
+info: Aug-25-2021 17:19:53: 	New access token created and signed - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzcxOTMsImV4cCI6MTYyOTkzNzIwM30._331CoCx6JOK1oKNmkwGkEdJT1_aQucc24ngxzMLqIk
+info: Aug-25-2021 17:19:53: 	New access token attached as cookie - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzcxOTMsImV4cCI6MTYyOTkzNzIwM30._331CoCx6JOK1oKNmkwGkEdJT1_aQucc24ngxzMLqIk
+info: Aug-25-2021 17:19:56: 	Extracting cookies from req: [object Object]
+error: Aug-25-2021 17:19:56: 	500 - AuthorizationError - User: jelery is banned. - /api/v1/restaurants/612400500f9bfd082443287f - GET - ::1 - AuthorizationError: User: jelery is banned.
+    at new BaseError (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/errors/baseError.js:22:11)
+    at new Api403Error (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/errors/api403Error.js:27:5)
+    at JwtStrategy._verify (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/config/passport.js:76:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+::1 - - [26/Aug/2021:00:19:56 +0000] "GET /api/v1/restaurants/612400500f9bfd082443287f HTTP/1.1" 403 59 "-" "PostmanRuntime/7.28.2"
+debug: Aug-25-2021 17:20:11: 	Start of getAllRestaurants controller
+info: Aug-25-2021 17:20:11: 	Found 17 restaurants
+info: Aug-25-2021 17:20:11: 	Added averageRating of 3.4 to restaurant 61172ef5f28b9fa89d57624e
+info: Aug-25-2021 17:20:11: 	Added averageRating of 1 to restaurant 611d67103d1ae111ed059483
+info: Aug-25-2021 17:20:11: 	All restaurants aggregated with average ratings
+::1 - - [26/Aug/2021:00:20:11 +0000] "GET /api/v1/restaurants HTTP/1.1" 200 3959 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:22:43: 	Mongoose connected to DB
+info: Aug-25-2021 17:22:43: 	Server is listening on PORT 4000
+debug: Aug-25-2021 17:22:48: 	Start of refreshAccessAndRefreshTokens controller
+info: Aug-25-2021 17:22:48: 	Extracting cookies from req: [object Object]
+info: Aug-25-2021 17:22:48: 	Refresh token ID 9ef11351-8e5a-4ee1-8405-8439d4c7a39d found in cookies
+info: Aug-25-2021 17:22:48: 	Refresh token found in db
+::1 - - [26/Aug/2021:00:22:48 +0000] "POST /api/v1/auth/refresh-token HTTP/1.1" 200 79 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:22:48: 	Refresh token 9ef11351-8e5a-4ee1-8405-8439d4c7a39d expiry date verified
+info: Aug-25-2021 17:22:48: 	Creating signed JWT token - 611d457c2bd34be5e22eab9d, jelery@mail.com
+info: Aug-25-2021 17:22:48: 	New access token created and signed - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzczNjgsImV4cCI6MTYyOTkzNzM3OH0.225r0PcJQJ8TTUwBtUBm1YJK6eHQQTsI0c33Oi5_TwY
+info: Aug-25-2021 17:22:48: 	New access token attached as cookie - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzczNjgsImV4cCI6MTYyOTkzNzM3OH0.225r0PcJQJ8TTUwBtUBm1YJK6eHQQTsI0c33Oi5_TwY
+info: Aug-25-2021 17:22:51: 	Extracting cookies from req: [object Object]
+error: Aug-25-2021 17:22:51: 	500 - AuthorizationError - User: jelery is banned. - /api/v1/restaurants/612400500f9bfd082443287f - GET - ::1 - AuthorizationError: User: jelery is banned.
+    at new BaseError (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/errors/baseError.js:22:11)
+    at new Api403Error (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/errors/api403Error.js:27:5)
+    at JwtStrategy._verify (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/dist/config/passport.js:76:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+::1 - - [26/Aug/2021:00:22:51 +0000] "GET /api/v1/restaurants/612400500f9bfd082443287f HTTP/1.1" 403 59 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:23:00: 	Mongoose disconnected from DB
+info: Aug-25-2021 17:23:05: 	Mongoose connected to DB
+info: Aug-25-2021 17:23:05: 	Server is listening on PORT 4000
+debug: Aug-25-2021 17:23:10: 	Start of refreshAccessAndRefreshTokens controller
+info: Aug-25-2021 17:23:10: 	Extracting cookies from req: [object Object]
+info: Aug-25-2021 17:23:10: 	Refresh token ID 9ef11351-8e5a-4ee1-8405-8439d4c7a39d found in cookies
+info: Aug-25-2021 17:23:10: 	Refresh token found in db
+::1 - - [26/Aug/2021:00:23:10 +0000] "POST /api/v1/auth/refresh-token HTTP/1.1" 200 79 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:23:10: 	Refresh token 9ef11351-8e5a-4ee1-8405-8439d4c7a39d expiry date verified
+info: Aug-25-2021 17:23:10: 	Creating signed JWT token - 611d457c2bd34be5e22eab9d, jelery@mail.com
+info: Aug-25-2021 17:23:10: 	New access token created and signed - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzczOTAsImV4cCI6MTYyOTkzNzQwMH0.HFhI2FSNs-U0aTTHjHayuYvA4ZJLrOj5kKBYDgG5z48
+info: Aug-25-2021 17:23:10: 	New access token attached as cookie - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2MTFkNDU3YzJiZDM0YmU1ZTIyZWFiOWQiLCJ1c2VyRW1haWwiOiJqZWxlcnlAbWFpbC5jb20iLCJpYXQiOjE2Mjk5MzczOTAsImV4cCI6MTYyOTkzNzQwMH0.HFhI2FSNs-U0aTTHjHayuYvA4ZJLrOj5kKBYDgG5z48
+info: Aug-25-2021 17:23:12: 	Extracting cookies from req: [object Object]
+error: Aug-25-2021 17:23:12: 	500 - AuthorizationError - User: jelery is banned. - /api/v1/restaurants/612400500f9bfd082443287f - GET - ::1
+::1 - - [26/Aug/2021:00:23:12 +0000] "GET /api/v1/restaurants/612400500f9bfd082443287f HTTP/1.1" 403 59 "-" "PostmanRuntime/7.28.2"
+debug: Aug-25-2021 17:23:33: 	Start of logout controller
+info: Aug-25-2021 17:23:33: 	Found 1 refresh tokens in db for 611d457c2bd34be5e22eab9d
+info: Aug-25-2021 17:23:33: 	Refresh token 6126de1dc556b61786d866b9 deleted from db
+::1 - - [26/Aug/2021:00:23:33 +0000] "GET /api/v1/auth/logout HTTP/1.1" 200 50 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:23:33: 	refresh token and access tokens cleared
+info: Aug-25-2021 17:23:33: 	user with id 611d457c2bd34be5e22eab9d logged out
+error: Aug-25-2021 17:23:38: 	500 - AuthorizationError - user or password is incorrect. - /api/v1/auth/login/login-user - POST - ::1
+::1 - - [26/Aug/2021:00:23:38 +0000] "POST /api/v1/auth/login/login-user HTTP/1.1" 403 66 "-" "PostmanRuntime/7.28.2"
+info: Aug-25-2021 17:24:02: 	Mongoose disconnected from DB
+info: Aug-27-2021 13:12:57: 	Mongoose connected to DB
+info: Aug-27-2021 13:12:57: 	Server is listening on PORT 4000
+debug: Aug-27-2021 13:13:15: 	Start of createUser controller
+::1 - - [27/Aug/2021:20:13:15 +0000] "POST /api/v1/auth/register/create-user HTTP/1.1" 500 108 "-" "PostmanRuntime/7.28.2"
+error: Aug-27-2021 13:13:15: 	500 - ValidationError - User validation failed: username: No username entered., email: No email entered., password: No password entered. - /api/v1/auth/register/create-user - POST - ::1 - ValidationError: User validation failed: username: No username entered., email: No email entered., password: No password entered.
+    at model.Document.invalidate (/Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/node_modules/mongoose/lib/document.js:2760:32)
+    at /Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/node_modules/mongoose/lib/document.js:2552:17
+    at /Users/jessezonneveld/Documents/Coding/React/Yelp PERN/server-mongo/node_modules/mongoose/lib/schematype.js:1273:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+info: Aug-27-2021 13:13:49: 	Mongoose disconnected from DB
