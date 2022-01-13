@@ -9,6 +9,7 @@
 import mongoose from 'mongoose';
 import User from './user';
 import Restaurant from './restaurant';
+import BoardGame from './boardGame';
 import Review from './review';
 import RefreshToken from './refreshToken';
 
@@ -16,6 +17,6 @@ import RefreshToken from './refreshToken';
 
 /* --------------------------------- EXPORTS -------------------------------- */
 
-export { mongoose, User, Restaurant, Review, RefreshToken };
+export { mongoose, User, Restaurant, BoardGame, Review, RefreshToken };
 
 /* -------------------------------------------------------------------------- */
